@@ -1,13 +1,14 @@
+@page "/"
 @page "/index"
 @inject NavigationManager NavMan 
 @rendermode InteractiveServer
 @using System.Text.Json
 @inject IJSRuntime JSx
 
-<h3>Viencias Guardadas</h3>
+<h3>Viencias Guardadas ⚔️</h3>
 
 <div class="text-end">
-    <button class="btt btn-primary" @onclick="NuevoRegistro">Nuevo Registro</button>
+    <button type="button" class="btn btn-primary" @onclick="NuevoRegistro">Nuevo Registro</button>
 </div>
 
 <div class="row mt-4">
@@ -44,6 +45,7 @@
     {
         NavMan.NavigateTo("registro");
     }
+    
 
     protected override async Task OnAfterRenderAsync(bool firstRender)
     {

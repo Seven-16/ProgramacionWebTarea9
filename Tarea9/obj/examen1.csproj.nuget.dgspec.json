@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "G:\\BlazorExamen1 - Copy\\examen1\\examen1.csproj": {}
+    "C:\\Programación Web\\Tarea_9\\Tarea9\\examen1.csproj": {}
   },
   "projects": {
-    "G:\\BlazorExamen1 - Copy\\examen1\\examen1.csproj": {
+    "C:\\Programación Web\\Tarea_9\\Tarea9\\examen1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\BlazorExamen1 - Copy\\examen1\\examen1.csproj",
+        "projectUniqueName": "C:\\Programación Web\\Tarea_9\\Tarea9\\examen1.csproj",
         "projectName": "examen1",
-        "projectPath": "G:\\BlazorExamen1 - Copy\\examen1\\examen1.csproj",
-        "packagesPath": "C:\\Users\\alexj\\.nuget\\packages\\",
-        "outputPath": "G:\\BlazorExamen1 - Copy\\examen1\\obj\\",
+        "projectPath": "C:\\Programación Web\\Tarea_9\\Tarea9\\examen1.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Programación Web\\Tarea_9\\Tarea9\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\alexj\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -64,7 +68,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.402/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

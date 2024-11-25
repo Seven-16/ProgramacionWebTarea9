@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "VMGZTP8ip/gGsSjYOMvC2gm+1e2SF3SOHwQQmpMfkqM=",
+  "Hash": "8VSbHcxPk/YqIPTnwRVcNeimYgZJOVQg+g0OeDm6Zzg=",
   "Source": "examen1",
   "BasePath": "_content/examen1",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "examen1\\wwwroot",
       "Source": "examen1",
-      "ContentRoot": "G:\\BlazorExamen1 - Copy\\examen1\\wwwroot\\",
+      "ContentRoot": "C:\\Programación Web\\Tarea_9\\Tarea9\\wwwroot\\",
       "BasePath": "_content/examen1",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "G:\\BlazorExamen1 - Copy\\examen1\\obj\\Debug\\net8.0\\scopedcss\\bundle\\examen1.styles.css",
+      "Identity": "C:\\Programación Web\\Tarea_9\\Tarea9\\obj\\Debug\\net8.0\\scopedcss\\bundle\\examen1.styles.css",
       "SourceId": "examen1",
       "SourceType": "Computed",
-      "ContentRoot": "G:\\BlazorExamen1 - Copy\\examen1\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Programación Web\\Tarea_9\\Tarea9\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/examen1",
       "RelativePath": "examen1.styles.css",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "G:\\BlazorExamen1 - Copy\\examen1\\obj\\Debug\\net8.0\\scopedcss\\bundle\\examen1.styles.css"
+      "OriginalItemSpec": "C:\\Programación Web\\Tarea_9\\Tarea9\\obj\\Debug\\net8.0\\scopedcss\\bundle\\examen1.styles.css"
     },
     {
-      "Identity": "G:\\BlazorExamen1 - Copy\\examen1\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\examen1.bundle.scp.css",
+      "Identity": "C:\\Programación Web\\Tarea_9\\Tarea9\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\examen1.bundle.scp.css",
       "SourceId": "examen1",
       "SourceType": "Computed",
-      "ContentRoot": "G:\\BlazorExamen1 - Copy\\examen1\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Programación Web\\Tarea_9\\Tarea9\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/examen1",
       "RelativePath": "examen1.bundle.scp.css",
       "AssetKind": "All",
@@ -52,13 +52,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "G:\\BlazorExamen1 - Copy\\examen1\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\examen1.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Programación Web\\Tarea_9\\Tarea9\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\examen1.bundle.scp.css"
     },
     {
-      "Identity": "G:\\BlazorExamen1 - Copy\\examen1\\wwwroot\\app.css",
+      "Identity": "C:\\Programación Web\\Tarea_9\\Tarea9\\wwwroot\\app.css",
       "SourceId": "examen1",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\BlazorExamen1 - Copy\\examen1\\wwwroot\\",
+      "ContentRoot": "C:\\Programación Web\\Tarea_9\\Tarea9\\wwwroot\\",
       "BasePath": "_content/examen1",
       "RelativePath": "app.css",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\app.css"
     },
     {
-      "Identity": "G:\\BlazorExamen1 - Copy\\examen1\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Identity": "C:\\Programación Web\\Tarea_9\\Tarea9\\wwwroot\\bootstrap\\bootstrap.min.css",
       "SourceId": "examen1",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\BlazorExamen1 - Copy\\examen1\\wwwroot\\",
+      "ContentRoot": "C:\\Programación Web\\Tarea_9\\Tarea9\\wwwroot\\",
       "BasePath": "_content/examen1",
       "RelativePath": "bootstrap/bootstrap.min.css",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "G:\\BlazorExamen1 - Copy\\examen1\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "C:\\Programación Web\\Tarea_9\\Tarea9\\wwwroot\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "examen1",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\BlazorExamen1 - Copy\\examen1\\wwwroot\\",
+      "ContentRoot": "C:\\Programación Web\\Tarea_9\\Tarea9\\wwwroot\\",
       "BasePath": "_content/examen1",
       "RelativePath": "bootstrap/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "G:\\BlazorExamen1 - Copy\\examen1\\wwwroot\\favicon.png",
+      "Identity": "C:\\Programación Web\\Tarea_9\\Tarea9\\wwwroot\\favicon.png",
       "SourceId": "examen1",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\BlazorExamen1 - Copy\\examen1\\wwwroot\\",
+      "ContentRoot": "C:\\Programación Web\\Tarea_9\\Tarea9\\wwwroot\\",
       "BasePath": "_content/examen1",
       "RelativePath": "favicon.png",
       "AssetKind": "All",
